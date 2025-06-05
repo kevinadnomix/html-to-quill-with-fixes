@@ -1,7 +1,7 @@
 {
   "name": "kevinadnomix/html-to-quill-with-fixes",
   "type": "library",
-  "description": "PHP HTML to Quill Delta converter",
+  "description": "PHP HTML to Quill Delta converter improvement by https://github.com/XAINJATT/html-to-quill",
   "homepage": "https://github.com/XAINJATT/html-to-quill",
   "keywords": [
     "convert",
@@ -20,7 +20,6 @@
   ],
   "require": {
     "php": ">=7.4",
-    "xainjatt/php-quill-delta": "dev-master",
     "symfony/dom-crawler": "*",
     "ext-dom": "*",
     "ext-json": "*"
