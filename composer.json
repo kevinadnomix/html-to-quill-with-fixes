@@ -33,7 +33,7 @@
   "repositories": {
     "php-quill-delta": {
       "type": "vcs",
-       "url": "https://github.com/kevinadnomix/php-quill-delta-with-fixes"
+      "url": "https://github.com/kevinadnomix/php-quill-delta-with-fixes"
     }
   }
 }
