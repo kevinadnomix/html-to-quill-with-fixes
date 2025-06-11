@@ -30,4 +30,6 @@
       "Everyday\\HtmlToQuill\\": "src/"
     }
   }
+  "minimum-stability": "dev",
+  "prefer-stable": false,
 }
