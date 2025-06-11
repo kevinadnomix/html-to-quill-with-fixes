@@ -29,7 +29,7 @@
     "psr-4": {
       "Everyday\\HtmlToQuill\\": "src/"
     }
-  }
+  },
   "minimum-stability": "dev",
   "prefer-stable": false
 }
