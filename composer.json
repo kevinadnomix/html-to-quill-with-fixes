@@ -21,7 +21,7 @@
   "require": {
     "php": ">=8.0",
     "symfony/dom-crawler": "*",
-    "kevinadnomix/php-quill-delta-with-fixes": "^v1.0.0",
+    "kevinadnomix/php-quill-delta-with-fixes": "^v1.0.2",
     "ext-dom": "*",
     "ext-json": "*"
   },
@@ -30,6 +30,8 @@
       "Everyday\\HtmlToQuill\\": "src/"
     }
   },
+  "minimum-stability": "stable",
+  "prefer-stable": true,
   "repositories": {
     "php-quill-delta": {
       "type": "vcs",
