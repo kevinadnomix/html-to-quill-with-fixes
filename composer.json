@@ -21,7 +21,7 @@
   "require": {
     "php": ">=7.4",
     "symfony/dom-crawler": "*",
-    "kevinadnomix/php-quill-delta-with-fixes": "dev-master",
+    "kevinadnomix/php-quill-delta-with-fixes": "^v1.0.0",
     "ext-dom": "*",
     "ext-json": "*"
   },
@@ -29,7 +29,5 @@
     "psr-4": {
       "Everyday\\HtmlToQuill\\": "src/"
     }
-  },
-  "minimum-stability": "dev",
-  "prefer-stable": false
+  }
 }
